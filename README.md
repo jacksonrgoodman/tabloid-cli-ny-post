@@ -1,3 +1,8 @@
+
+[![.NET](https://img.shields.io/badge/.NET-5C2D91.svg?style=for-the-badge&logo=dot-net&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/c%23-006400.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](#)
+[![ADO.NET](https://img.shields.io/badge/ADO.NET-8b0000.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](#)
 # Tabloid CLI
 
 First backend group project where we had to take already exisiting code and apply our own to add onto and complete the project.
@@ -38,10 +43,10 @@ https://dbdiagram.io/d/5fce53559a6c525a03ba2069
 
 ## Contributors
 
-- Jackson Goodman
-- Autumn Fotopoulos
-- Salma Crank
-- Traye Johnson
+- [Jackson Goodman](https://github.com/jacksonrgoodman)
+- [Autumn Fotopoulos](https://github.com/AutumnFoto)
+- [Salma Crank](https://github.com/srcrank)
+- [Traye Johnson](https://github.com/archeni)
 
 ## Tech used
 
